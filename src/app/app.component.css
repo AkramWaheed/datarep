@@ -1,0 +1,15 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+
+#menu{
+    color: gold;
+}
+#titleback{
+   
+    background-color: rgb(8, 69, 77);
+
+}
+#title3{
+    color: red;
+    text-align: center;
+}
